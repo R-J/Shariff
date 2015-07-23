@@ -1,0 +1,13 @@
+.shariff .orientation-horizontal li .share_text {
+  display:none;
+}
+.shariff .orientation-horizontal li {
+  width:30px;
+  min-width:30px;
+  max-width:30px;
+}
+
+div.shariff {
+  display:inline;
+}
+
